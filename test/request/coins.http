@@ -1,0 +1,2 @@
+GET http://localhost:8000/account/coins/?username=alex
+Authorization: 1234ABC
